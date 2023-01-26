@@ -2,7 +2,7 @@
 
 My name is Luke Po (he/him), and I am a 3rd year Computer Science and Physics major (with a minor in Informational Ethics) at Northeastern University.
 
-####Skills:
+#### Skills:
 I am proficient in Java and Python with familiarity of many Object Oriented Design principles and different algorithms! I have experience with working with Git and with pair programming. I have also dabbled a bit into HTML and JavaScript.
 
 #### Finished Projects:
